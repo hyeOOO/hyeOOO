@@ -1,5 +1,4 @@
 ## ABOUT ME
-<a href="https://docs.google.com/document/d/1UN1UpYj4nO8aUE1BmeSiypgB0sySliCrXKNwm3QobXs/edit?usp=sharing?pvs=4"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=GooleDocs&logoColor=white"/></a>
 <a href="https://velog.io/@hw00/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ## SKILL
