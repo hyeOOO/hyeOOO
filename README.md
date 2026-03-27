@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://www.canva.com/design/DAGpK_JTNYs/VL9YOtCm8dBbn1ffwKrpIA/view?utm_content=DAGpK_JTNYs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h84c01d1e82" target="_blank">
+<a href="https://www.canva.com/design/DAHEmCc0jDc/7QmgoQXmiVRWnVjWnk6f5w/view?utm_content=DAHEmCc0jDc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h72378a0168" target="_blank">
   <img src="https://img.shields.io/badge/MY_PORTFOLIO-3D68C2?style=for-the-badge&logo=googleslides&logoColor=white" height="100">
 </a>
 <h6>▲ 포트폴리오(Canva) 이동</h6>
