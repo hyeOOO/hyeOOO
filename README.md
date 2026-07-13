@@ -1,10 +1,9 @@
 <div align="center">
 
 # 👤 ABOUT ME
-
 <br>
 
-<a href="https://www.canva.com/design/DAHEmCc0jDc/7QmgoQXmiVRWnVjWnk6f5w/view?utm_content=DAHEmCc0jDc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h72378a0168" target="_blank">
+<a href="https://canva.link/ncb6kb78f1oyc59" target="_blank">
   <img src="https://img.shields.io/badge/MY_PORTFOLIO-3D68C2?style=for-the-badge&logo=googleslides&logoColor=white" height="100">
 </a>
 <h6>▲ 포트폴리오(Canva) 이동</h6>
