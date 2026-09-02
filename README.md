@@ -10,10 +10,6 @@
 
 <br>
 
-<a href="https://docs.google.com/document/d/1UN1UpYj4nO8aUE1BmeSiypgB0sySliCrXKNwm3QobXs/edit?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/RESUME-2F2F2F?style=flat&logo=google-docs&logoColor=white" height="30">
-</a>
-&nbsp;
 <a href="https://velog.io/@hw00/posts" target="_blank">
   <img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=velog&logoColor=white" height="30">
 </a>
