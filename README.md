@@ -3,7 +3,7 @@
 # 👤 ABOUT ME
 <br>
 
-<a href="https://canva.link/ncb6kb78f1oyc59" target="_blank">
+<!-- <a href="https://canva.link/ncb6kb78f1oyc59" target="_blank">
   <img src="https://img.shields.io/badge/MY_PORTFOLIO-3D68C2?style=for-the-badge&logo=googleslides&logoColor=white" height="100">
 </a>
 <h6>▲ 포트폴리오(Canva) 이동</h6>
@@ -12,7 +12,7 @@
 
 <a href="https://velog.io/@hw00/posts" target="_blank">
   <img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=velog&logoColor=white" height="30">
-</a>
+</a> -->
 
 <br>
 <br>
